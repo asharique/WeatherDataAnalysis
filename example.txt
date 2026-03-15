@@ -1,1 +1,16 @@
-new line added
+Cities Avg temp
+highest avg temp
+lowest temp
+Avg humidity level
+most commom weather condition
+
+State highest avg temp
+state highest rainfall
+state avg humidity
+state most storms
+
+season highest rainfal
+seaon highest avg temp
+Humidity vary across season
+season most storm
+
